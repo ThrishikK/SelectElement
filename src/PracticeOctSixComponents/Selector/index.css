@@ -1,0 +1,21 @@
+.main-container-S {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.select-container {
+  margin: 9px;
+  padding: 9px;
+}
+
+.select-el {
+  border-radius: 12px;
+  padding: 9px;
+}
+
+.option-el {
+  padding: 6px;
+  margin: 9px;
+}
